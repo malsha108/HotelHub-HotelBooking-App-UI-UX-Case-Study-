@@ -21,7 +21,7 @@ A mobile app concept to help users discover and book hotels easily in Sri Lanka.
 https://www.figma.com/design/XdHqf5sA22uFb92Rw85UZq/Untitled?node-id=4-74&t=mV18FQxEd56ZDwwO-1
 
 ## 📸 Screens
-
+https://github.com/malsha108/HotelHub-HotelBooking-App-UI-UX-Case-Study-/blob/main/Untitled%20(3).fig
 
 ---
 *Created by Maisha*
